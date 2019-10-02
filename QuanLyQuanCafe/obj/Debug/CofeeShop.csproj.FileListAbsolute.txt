@@ -1,0 +1,13 @@
+C:\Users\nnh\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\nnh\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\nnh\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\nnh\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\CofeeShop.csprojAssemblyReference.cache
+C:\Users\nnh\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\CofeeShop.fAccountProfile.resources
+C:\Users\nnh\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\CofeeShop.fAdmin.resources
+C:\Users\nnh\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\CofeeShop.fLogin.resources
+C:\Users\nnh\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\CofeeShop.fTableManager.resources
+C:\Users\nnh\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\nnh\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\CofeeShop.csproj.GenerateResource.cache
+C:\Users\nnh\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\CofeeShop.csproj.CoreCompileInputs.cache
+C:\Users\nnh\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\nnh\source\repos\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
